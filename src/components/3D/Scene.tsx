@@ -164,6 +164,24 @@ export function Scene() {
         </p>
       </div>
 
+      {/* Model attribution — required by the CC-BY license */}
+      <a
+        href="https://sketchfab.com/3d-models/dryads-tree"
+        target="_blank"
+        rel="noreferrer"
+        style={{
+          position: 'absolute',
+          bottom: '8px',
+          right: '12px',
+          fontSize: '11px',
+          color: 'rgba(255,255,255,0.55)',
+          textDecoration: 'none',
+          textShadow: '0 1px 3px rgba(0,0,0,0.5)'
+        }}
+      >
+        3D model: "Dryad's Tree" by H.Foucault (CC Attribution)
+      </a>
+
       {/* Editor toolbar — fixed in the bottom-left corner of the screen */}
       <div style={{
         position: 'absolute',
