@@ -28,3 +28,6 @@ public/employees/HÌNH ẢNH NHÂN VIÊN 2026/
 *.sw?
 
 .claude/settings.local.json
+
+# Original uncompressed 3D model backup (110MB)
+public/dryads_tree_original.glb
