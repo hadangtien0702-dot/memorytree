@@ -1,0 +1,414 @@
+[
+    {
+        "slug":  "aicy",
+        "name":  "AICY"
+    },
+    {
+        "slug":  "alan",
+        "name":  "Alan"
+    },
+    {
+        "slug":  "alex",
+        "name":  "Alex"
+    },
+    {
+        "slug":  "alice",
+        "name":  "Alice"
+    },
+    {
+        "slug":  "amy",
+        "name":  "Amy"
+    },
+    {
+        "slug":  "andrea",
+        "name":  "Andrea"
+    },
+    {
+        "slug":  "andres",
+        "name":  "Andres"
+    },
+    {
+        "slug":  "andrey",
+        "name":  "Andrey"
+    },
+    {
+        "slug":  "annie",
+        "name":  "Annie"
+    },
+    {
+        "slug":  "bennitt",
+        "name":  "Bennitt"
+    },
+    {
+        "slug":  "bon",
+        "name":  "Bon"
+    },
+    {
+        "slug":  "bruce-bao",
+        "name":  "BRUCE BẢO"
+    },
+    {
+        "slug":  "celery",
+        "name":  "CELERY"
+    },
+    {
+        "slug":  "charlie",
+        "name":  "CHARLIE"
+    },
+    {
+        "slug":  "chomotte",
+        "name":  "Chomotte"
+    },
+    {
+        "slug":  "chris",
+        "name":  "Chris"
+    },
+    {
+        "slug":  "cris",
+        "name":  "Cris"
+    },
+    {
+        "slug":  "david-1",
+        "name":  "David(1)"
+    },
+    {
+        "slug":  "david",
+        "name":  "David"
+    },
+    {
+        "slug":  "dennis",
+        "name":  "Dennis"
+    },
+    {
+        "slug":  "dilys",
+        "name":  "Dilys"
+    },
+    {
+        "slug":  "edward",
+        "name":  "Edward"
+    },
+    {
+        "slug":  "eira",
+        "name":  "Eira"
+    },
+    {
+        "slug":  "eric",
+        "name":  "Eric"
+    },
+    {
+        "slug":  "evan-nguyen",
+        "name":  "EVAN NGUYỄN"
+    },
+    {
+        "slug":  "fiona",
+        "name":  "Fiona"
+    },
+    {
+        "slug":  "glosbe-tran-thi-nhu-thuyen",
+        "name":  "Glosbe - Trần Thị Như Thuyền"
+    },
+    {
+        "slug":  "gus-1",
+        "name":  "Gus (1)"
+    },
+    {
+        "slug":  "handy-trinh-thinksmart-cskh",
+        "name":  "Handy - Trinh - Thinksmart CSKH"
+    },
+    {
+        "slug":  "hannie",
+        "name":  "Hannie"
+    },
+    {
+        "slug":  "hao",
+        "name":  "HAO"
+    },
+    {
+        "slug":  "harly",
+        "name":  "Harly"
+    },
+    {
+        "slug":  "harry",
+        "name":  "Harry"
+    },
+    {
+        "slug":  "henry",
+        "name":  "Henry"
+    },
+    {
+        "slug":  "holden",
+        "name":  "Holden"
+    },
+    {
+        "slug":  "img-2523-kelsey",
+        "name":  "IMG_2523 - Kelsey"
+    },
+    {
+        "slug":  "img-3635-mai-dao",
+        "name":  "IMG_3635 - Mai Đào"
+    },
+    {
+        "slug":  "ivan",
+        "name":  "Ivan"
+    },
+    {
+        "slug":  "james",
+        "name":  "James"
+    },
+    {
+        "slug":  "jason",
+        "name":  "JASON"
+    },
+    {
+        "slug":  "jay",
+        "name":  "JAY"
+    },
+    {
+        "slug":  "jayce-mai",
+        "name":  "Jayce Mai"
+    },
+    {
+        "slug":  "jes",
+        "name":  "Jes"
+    },
+    {
+        "slug":  "jolie",
+        "name":  "JOLIE"
+    },
+    {
+        "slug":  "josie",
+        "name":  "Josie"
+    },
+    {
+        "slug":  "june",
+        "name":  "June"
+    },
+    {
+        "slug":  "kathy",
+        "name":  "Kathy"
+    },
+    {
+        "slug":  "katny",
+        "name":  "Katny"
+    },
+    {
+        "slug":  "kenny",
+        "name":  "Kenny"
+    },
+    {
+        "slug":  "kevin",
+        "name":  "Kevin"
+    },
+    {
+        "slug":  "khang-kane",
+        "name":  "KHANG KANE"
+    },
+    {
+        "slug":  "kira",
+        "name":  "Kira"
+    },
+    {
+        "slug":  "kisnn",
+        "name":  "Kisnn"
+    },
+    {
+        "slug":  "kristen",
+        "name":  "Kristen"
+    },
+    {
+        "slug":  "lady",
+        "name":  "Lady"
+    },
+    {
+        "slug":  "lanna",
+        "name":  "Lanna"
+    },
+    {
+        "slug":  "leo-quy",
+        "name":  "LEO QUY"
+    },
+    {
+        "slug":  "liam",
+        "name":  "Liam"
+    },
+    {
+        "slug":  "lilyn",
+        "name":  "Lilyn"
+    },
+    {
+        "slug":  "linh-chloe",
+        "name":  "LINH CHLOE"
+    },
+    {
+        "slug":  "linh-raddie",
+        "name":  "LINH RADDIE"
+    },
+    {
+        "slug":  "louis",
+        "name":  "Louis"
+    },
+    {
+        "slug":  "louisa",
+        "name":  "Louisa"
+    },
+    {
+        "slug":  "lucas",
+        "name":  "Lucas"
+    },
+    {
+        "slug":  "lucia",
+        "name":  "Lucia"
+    },
+    {
+        "slug":  "luna",
+        "name":  "Luna"
+    },
+    {
+        "slug":  "luna-2",
+        "name":  "LUNA"
+    },
+    {
+        "slug":  "lyly",
+        "name":  "lyly"
+    },
+    {
+        "slug":  "mai-laken",
+        "name":  "MAI LAKEN"
+    },
+    {
+        "slug":  "maily",
+        "name":  "Maily"
+    },
+    {
+        "slug":  "marry",
+        "name":  "Marry"
+    },
+    {
+        "slug":  "mina",
+        "name":  "Mina"
+    },
+    {
+        "slug":  "nancy",
+        "name":  "NANCY"
+    },
+    {
+        "slug":  "nathan",
+        "name":  "Nathan"
+    },
+    {
+        "slug":  "noziroh",
+        "name":  "Noziroh"
+    },
+    {
+        "slug":  "philip",
+        "name":  "Philip"
+    },
+    {
+        "slug":  "phillip",
+        "name":  "PHILLIP"
+    },
+    {
+        "slug":  "phoebe",
+        "name":  "Phoebe"
+    },
+    {
+        "slug":  "raven",
+        "name":  "RAVEN"
+    },
+    {
+        "slug":  "recon-1",
+        "name":  "RECON (1)"
+    },
+    {
+        "slug":  "rio",
+        "name":  "Rio"
+    },
+    {
+        "slug":  "rose",
+        "name":  "ROSE"
+    },
+    {
+        "slug":  "ryan",
+        "name":  "ryan"
+    },
+    {
+        "slug":  "sammy",
+        "name":  "sammy"
+    },
+    {
+        "slug":  "serena",
+        "name":  "Serena"
+    },
+    {
+        "slug":  "shally",
+        "name":  "Shally"
+    },
+    {
+        "slug":  "sheamus",
+        "name":  "Sheamus"
+    },
+    {
+        "slug":  "shin",
+        "name":  "SHIN"
+    },
+    {
+        "slug":  "sinje",
+        "name":  "Sinje"
+    },
+    {
+        "slug":  "suny",
+        "name":  "Suny"
+    },
+    {
+        "slug":  "thierry",
+        "name":  "Thierry"
+    },
+    {
+        "slug":  "thu-suzy",
+        "name":  "THƯ SUZY"
+    },
+    {
+        "slug":  "tom",
+        "name":  "Tom"
+    },
+    {
+        "slug":  "tommy",
+        "name":  "Tommy"
+    },
+    {
+        "slug":  "tony",
+        "name":  "Tony"
+    },
+    {
+        "slug":  "tracy-imgae-thuy-trang-nguyen",
+        "name":  "Tracy Imgae - Thuy Trang Nguyen"
+    },
+    {
+        "slug":  "tram-cindy",
+        "name":  "TRÂM CINDY"
+    },
+    {
+        "slug":  "tri-toby",
+        "name":  "TRÍ TOBY"
+    },
+    {
+        "slug":  "tuan-elio",
+        "name":  "TUẤN ELIO"
+    },
+    {
+        "slug":  "uyen-zane",
+        "name":  "Uyên ZANE"
+    },
+    {
+        "slug":  "vera",
+        "name":  "VERA"
+    },
+    {
+        "slug":  "vincent",
+        "name":  "Vincent"
+    },
+    {
+        "slug":  "yoona",
+        "name":  "Yoona"
+    }
+]
