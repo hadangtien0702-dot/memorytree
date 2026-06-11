@@ -63,12 +63,30 @@ export function EmployeeCard({
   useFrame((state) => {
     if (!groupRef.current) return;
 
-    // Subtle swaying motion, pivoting around the attach point
+    // Gentle natural wind, pivoting around the attach point.
     const t = state.clock.getElapsedTime();
-    const offset = initialPosition.current.x + initialPosition.current.z;
+    const p = initialPosition.current;
+    // Per-card phase so neighbours don't move in lockstep, but the gust
+    // term travels across the tree (position-based) like a real breeze.
+    const phase = p.x * 0.45 + p.z * 0.3;
 
-    groupRef.current.rotation.x = Math.sin(t + offset) * 0.05;
-    groupRef.current.rotation.z = Math.cos(t * 0.8 + offset) * 0.05;
+    // Slow-breathing gust strength: calm ... stronger puffs (~0.3..1)
+    const gust =
+      0.65 +
+      0.35 * Math.sin(t * 0.22 + phase * 0.15) * Math.sin(t * 0.13 + 1.7);
+
+    // Pendulum sway (two slightly detuned frequencies feel organic)
+    const sway = (0.05 + 0.09 * gust);
+    groupRef.current.rotation.x =
+      Math.sin(t * 1.1 + phase) * sway +
+      Math.sin(t * 2.3 + phase * 1.7) * sway * 0.25;
+    groupRef.current.rotation.z =
+      Math.cos(t * 0.85 + phase * 1.3) * sway * 0.7 +
+      Math.cos(t * 1.9 + phase) * sway * 0.2;
+
+    // Slow twist around the string, like a hanging photo turning in the air
+    groupRef.current.rotation.y =
+      Math.sin(t * 0.5 + phase * 0.8) * 0.28 * gust;
   });
 
   return (
